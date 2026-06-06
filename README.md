@@ -12,7 +12,7 @@ A simple AI-powered chatbot built using Groq and Llama 3.1 that maintains conver
 ## Installation
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/dhii24/LLM-Powered-Chat-Assistant
 cd MiniRAG-AI-Knowledge-Assistant
 pip install -r requirements.txt
 ```
